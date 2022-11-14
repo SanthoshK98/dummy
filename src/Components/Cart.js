@@ -7,6 +7,8 @@ return(
 
 <div>
     <h1>Cart Page</h1>
+
+    <p>Please Find the Cart Page of ecoomerce store</p>
 </div>
 
 )
