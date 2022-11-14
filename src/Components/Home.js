@@ -26,6 +26,7 @@ axios.get(`${baseURL}/products`).then((response)=>{
         setError(false)
         
     console.log(response);
+        console.log("Hi hello")
     setUser(response.data.result)
 
     }
